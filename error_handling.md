@@ -1,0 +1,1 @@
+https://leimao.github.io/blog/Proper-CUDA-Error-Checking/
